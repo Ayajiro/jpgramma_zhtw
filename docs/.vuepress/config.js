@@ -1,6 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
+  base: '/jpgramma_zhtw/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -27,7 +28,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    base: '/jpgramma_zhtw/',
+    
     repo: '',
     editLinks: false,
     docsDir: '',
