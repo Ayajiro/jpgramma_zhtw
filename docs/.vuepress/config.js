@@ -5,7 +5,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: '日語文法指南-繁體中文版',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -36,22 +36,22 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: '日語文法指南',
         link: '/guide/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: '原文相關連結',
+        link: '/links/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: '本站譯者',
+        link: 'https://Ayajiro.github.io'
       }
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: '日語文法指南',
           collapsable: false,
           children: [
             '',
