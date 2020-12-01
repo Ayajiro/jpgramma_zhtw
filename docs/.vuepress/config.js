@@ -5,7 +5,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: '日語文法指南-繁體中文版',
+  title: '日文文法指南-繁體中文版',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -36,7 +36,7 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: '日語文法指南',
+        text: '日文文法指南',
         link: '/guide/',
       },
       {
@@ -51,7 +51,7 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: '日語文法指南',
+          title: '日文文法指南',
           collapsable: false,
           children: [
             '',
