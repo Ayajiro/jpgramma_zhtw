@@ -48,14 +48,20 @@ module.exports = {
         link: 'https://Ayajiro.github.io'
       }
     ],
+    // displayAllHeaders: true,
+    // activeHeaderLinks: false,
     sidebar: {
       '/guide/': [
         {
-          title: '日文文法指南',
+          title: '目錄',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'ch00_introduction',
+            'ch01_writing',
+            'ch02_hiragana',
+            'ch03_katakana',
+            'ch04_kanji.md'
           ]
         }
       ],
