@@ -6,3 +6,51 @@
 
 .home .hero img
   max-width 450px!important
+
+.container {
+    color:#059;
+    text-align:center;
+    font-weight:bold;
+    min-height: 1.2em;
+    width: 100%;
+    display: grid;
+  }
+  .col12{grid-template-columns: repeat(12,1fr);}
+  .col6{grid-template-columns: repeat(6,1fr);}
+  .container>div{
+      display:flex;
+      align-items:top;
+      justify-content:center;
+      border:1px solid #dfe2e5;
+  }
+  .container>div>p>span{
+      color:black;
+      font-weight:normal;
+    }
+  .top{background:white;color:black;}
+  .cell{background:white;}
+  .right{background:white;color:black;}
+  .cell2{background:#f6f8fa;}
+  .right2{background:#f6f8fa;color:black;}
+  .orange_baseline{font-weight:bold;border-bottom:3px solid orange;}
+  .baseline{border-bottom:1px solid black;}
+  
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+  }
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .extra_block{
+    border:1px dashed black;
+    background-color: #def9ff;
+    padding:10px 30px;
+    }
+  .extra_info_title{color:brown;}
+  

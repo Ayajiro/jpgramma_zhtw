@@ -14,3 +14,8 @@ footer: Ayajiro © 2020
 因爲是一邊學習日文一邊繁體中文化和架設網站，所以更新的速度會和我的學習進度相關，不能確定完成時間。
 
 對這份翻譯有任何想法與建議歡迎告訴我  \\(ˊᗜˋ)/。
+
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fayajiro.github.io%2Fjpgramma_zhtw%2F&count_bg=%23005599&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+

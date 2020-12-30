@@ -11,9 +11,11 @@
 
 雖然片假名和對應的平假名發音相同，但他們主要用於書寫外來語（因爲漢字無法呈現羅馬發音）。下面三個子章節將分別介紹平假名、片假名和漢字。
 
->譯者註：英文OK的話非常推薦看一下原作者的影片，很短而且很快能理解！
 
+
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KBYMuJ7B5Dg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
