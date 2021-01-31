@@ -8,11 +8,11 @@
 
 # 目錄
 
-1. [簡介]()
-2. [日文書寫系統]()
-    * [平假名]()
-    * [片假名]()
-    * [漢字]()
+1. [簡介](ch00_introduction.md)
+2. [日文書寫系統](ch01_writing.md)
+    * [平假名](ch02_hiragana.md)
+    * [片假名](ch03_katakana.md)
+    * [漢字](ch04_kanji.md)
 
 
 This work is released under a [Creative Commons Attribution-Noncommercial-Share Alike License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).

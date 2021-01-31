@@ -96,7 +96,7 @@
 
 你可以從 [http://www.guidetojapanese.org/audio/basic_sounds.zip](http://www.guidetojapanese.org/audio/basic_sounds.zip) 下載發音檔案。
 
-平假名並不難掌握，也不難教，一定要記住筆順<span class="orange_baseline"><i>不能錯</i></span>。你看我這麼強調這一點，相信我，當你看到別人的草書時會知道我爲什麼一開始就告誡你這一點。只有大家都按照一樣的筆順書寫，字的「走向」才能保持一致。我強烈建議你一開始學習書寫就注意這一點，以免養成壞習慣。雖然網路上有很多工具版壯你學習平假名，最好的學習方法還是老辦法：紙和筆。下面是一些很方便練習的田字格。
+平假名並不難掌握，也不難教，一定要記住筆順<span class="orange_baseline_b"><i>不能錯</i></span>。你看我這麼強調這一點，相信我，當你看到別人的草書時會知道我爲什麼一開始就告誡你這一點。只有大家都按照一樣的筆順書寫，字的「走向」才能保持一致。我強烈建議你一開始學習書寫就注意這一點，以免養成壞習慣。雖然網路上有很多工具版壯你學習平假名，最好的學習方法還是老辦法：紙和筆。下面是一些很方便練習的田字格。
 
 * [Hiragana trace sheets](http://www.guidetojapanese.org/pdf/hiragana_trace_sheet.pdf)
 * [japanese-lesson.com](http://japanese-lesson.com/characters/hiragana/hiragana_writing.html)
@@ -226,17 +226,17 @@
   <div class="cell2"><p>きゃ</p></div>
   <div class="right2"><p>ya</p></div>
 <!--  -->
-  <div class="cell2"><p>ぴゅ</p></div>
-  <div class="cell2"><p>びゅ</p></div>
-  <div class="cell2"><p>じゅ</p></div>
-  <div class="cell2"><p>ぎゅ</p></div>
-  <div class="cell2"><p>りゅ</p></div>
-  <div class="cell2"><p>みゅ</p></div>
-  <div class="cell2"><p>ひゅ</p></div>
-  <div class="cell2"><p>にゅ</p></div>
-  <div class="cell2"><p>ちゅ</p></div>
-  <div class="cell2"><p>しゅ</p></div>
-  <div class="cell2"><p>きゅ</p></div>
+  <div class="cell1"><p>ぴゅ</p></div>
+  <div class="cell1"><p>びゅ</p></div>
+  <div class="cell1"><p>じゅ</p></div>
+  <div class="cell1"><p>ぎゅ</p></div>
+  <div class="cell1"><p>りゅ</p></div>
+  <div class="cell1"><p>みゅ</p></div>
+  <div class="cell1"><p>ひゅ</p></div>
+  <div class="cell1"><p>にゅ</p></div>
+  <div class="cell1"><p>ちゅ</p></div>
+  <div class="cell1"><p>しゅ</p></div>
+  <div class="cell1"><p>きゅ</p></div>
   <div class="right"><p>yu</p></div>
 <!--  -->
   <div class="cell2"><p>ぴょ</p></div>
@@ -269,4 +269,83 @@
 </div>
 
 
->待完成
+## 小號的「つ」
+小號的「つ」放在兩個平假名之間時，後一個的輔音就被複製到前一個假名的結尾。例如，如果你把小號「つ」放到「び」和「く」中間組合出「びっく」，那麼輔音 / k / 就被帶到了「び」後面，發音變爲 "bikku"。同樣的，「はっぱ」唸作 "happa"，而「ろっく」唸作 "rokku"，以此類推。
+
+### 範例
+
+1. トラ<span class="orange_baseline">ッ</span>ク (to-ra<span class="orange_baseline">k</span>-ku) 
+<BtnSound url="/audio/torakku.mp3"></BtnSound> - 卡車（truck）
+
+2. ざ<span class="orange_baseline">っ</span>し (za<span class="orange_baseline">s</span>-shi) 
+<BtnSound url="/audio/zasshi.mp3"></BtnSound> - 雜誌（magazine）
+
+3. カ<span class="orange_baseline">ッ</span>プ (ka<span class="orange_baseline">p</span>-pu) 
+<BtnSound url="/audio/kappu.mp3"></BtnSound> - 杯子（cup）
+ 
+
+
+<br>
+<div class="extra_block">
+  <span class="extra_info_title">
+
+**說明**
+
+  </span>
+
+  1. 小號「つ」的作用是把後一個假名的輔音複製到前一個假名後面。例如「がっき」＝「ga<span class="orange_baseline">k</span>ki」。
+  2. 做了以上變化後，基本上都會產生一個「入聲」，但注意入聲要發對（第二個假名的輔音）。  <small>（譯者註：會臺語跟客語的話，入聲應該很好理解XD）</small>
+  
+</div>
+
+## 長元音
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLP1BxU6AR4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+哇！快學完了！我們最後再介紹一下長元音，也就是簡單的拉長元音的發音。根據需要拉長的元音的不同，你可以在其後添加「あ」、「い」或者「う」，如下所表述。
+
+拉長元音
+
+<div class="container col2">
+  <div class="top"><p>元音</p></div>
+  <div class="top"><p>用於拉長的附加元音</p></div>
+<!--  -->
+  <div class="cell2"><p>/ a /</p></div>
+  <div class="cell2"><p>あ</p></div>
+  
+<!--  -->
+  <div class="cell2"><p>/ i / e /</p></div>
+  <div class="cell2"><p>い</p></div>
+
+<!--  -->
+  <div class="cell2"><p>/ u / o /</p></div>
+  <div class="cell2"><p>う</p></div>
+
+</div>
+
+例如你想拉長「か」的發音，就可以在後面加一個恩「あ」，變成「かあ」。在舉一些例子：「き → きい」、「く → くう」、「け → けい」、「こ → こう」、「さ → さあ」，以此類推。長元音的原理很簡單，試著分別發音「か」和「あ」，然後再快速連讀。很快你就會發現好像是在拉長 / ka / 的發音時間。發長元音的時候，要記住其實是在發兩個音。
+
+記住長元音一定要拉長，否則恩「こうこう」（高中）就變成「ここ」（這裡），或者「おばあさん」（祖母）變成「おばさん」（老太婆）！
+
+### 範例
+
+1. がくせ<span class="orange_baseline">い</span> (ga-ku-s<span class="orange_baseline">e</span>) 
+<BtnSound url="/audio/gakuse.mp3"></BtnSound> - 學生
+
+2. せんせ<span class="orange_baseline">い</span> (sen-s<span class="orange_baseline">e</span>) 
+<BtnSound url="/audio/sense.mp3"></BtnSound> - 老師
+
+3. きょ<span class="orange_baseline">う</span> (ky<span class="orange_baseline">o</span>-pu) 
+<BtnSound url="/audio/kyo.mp3"></BtnSound> - 今天
+
+4. おはよ<span class="orange_baseline">う</span> (o-ha-y<span class="orange_baseline">o</span>) 
+<BtnSound url="/audio/ohayo.mp3"></BtnSound> - 早安
+
+5. おか<span class="orange_baseline">あ</span>さん (o-k<span class="orange_baseline">a</span>-san) 
+<BtnSound url="/audio/sense.mp3"></BtnSound> - 媽媽
+
+在極少數情況下 / e / 元音也會用「え」來拉長，/ o / 元音也會用「お」來拉長。這種情況的例子包括「おねえさん」、「おおい」和「おおきい」。要注意這些例外情況，不過好在數量很少。
+
+ 
