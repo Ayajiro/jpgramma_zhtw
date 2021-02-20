@@ -61,7 +61,8 @@ module.exports = {
             'ch01_writing',
             'ch02_hiragana',
             'ch03_katakana',
-            'ch04_kanji.md'
+            'ch04_kanji.md',
+            'ch05_basic.md'
           ]
         }
       ],

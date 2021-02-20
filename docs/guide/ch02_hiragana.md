@@ -332,19 +332,19 @@
 ### 範例
 
 1. がくせ<span class="orange_baseline">い</span> (ga-ku-s<span class="orange_baseline">e</span>) 
-<BtnSound url="/audio/gakuse.mp3"></BtnSound> - 學生
+<BtnSound url="/audio/gakusei.mp3"></BtnSound> - 學生
 
 2. せんせ<span class="orange_baseline">い</span> (sen-s<span class="orange_baseline">e</span>) 
-<BtnSound url="/audio/sense.mp3"></BtnSound> - 老師
+<BtnSound url="/audio/sensei.mp3"></BtnSound> - 老師
 
-3. きょ<span class="orange_baseline">う</span> (ky<span class="orange_baseline">o</span>-pu) 
+3. きょ<span class="orange_baseline">う</span> (ky<span class="orange_baseline">o</span>) 
 <BtnSound url="/audio/kyo.mp3"></BtnSound> - 今天
 
 4. おはよ<span class="orange_baseline">う</span> (o-ha-y<span class="orange_baseline">o</span>) 
-<BtnSound url="/audio/ohayo.mp3"></BtnSound> - 早安
+<BtnSound url="/audio/ohayou.mp3"></BtnSound> - 早安
 
 5. おか<span class="orange_baseline">あ</span>さん (o-k<span class="orange_baseline">a</span>-san) 
-<BtnSound url="/audio/sense.mp3"></BtnSound> - 媽媽
+<BtnSound url="/audio/okaasan.mp3"></BtnSound> - 媽媽
 
 在極少數情況下 / e / 元音也會用「え」來拉長，/ o / 元音也會用「お」來拉長。這種情況的例子包括「おねえさん」、「おおい」和「おおきい」。要注意這些例外情況，不過好在數量很少。
 

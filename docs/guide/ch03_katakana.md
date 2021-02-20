@@ -129,13 +129,13 @@
 ### 範例
 
 1. ツア<span class="orange_baseline">ー</span> (tsu-<span class="orange_baseline">a</span>) 
-<BtnSound url="/audio/gakuse.mp3"></BtnSound> - 遊覽（tour）
+<BtnSound url="/audio/tsua.mp3"></BtnSound> - 遊覽（tour）
 
 2. メ<span class="orange_baseline">ー</span>ル (m<span class="orange_baseline">e</span>-ru) 
-<BtnSound url="/audio/sense.mp3"></BtnSound> - 電子郵件（email）
+<BtnSound url="/audio/meeru.mp3"></BtnSound> - 電子郵件（email）
 
 3. ケ<span class="orange_baseline">ー</span>キ (k<span class="orange_baseline">e</span>-ki) 
-<BtnSound url="/audio/kyo.mp3"></BtnSound> - 蛋糕（cake）
+<BtnSound url="/audio/keiki.mp3"></BtnSound> - 蛋糕（cake）
 
 
  
