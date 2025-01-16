@@ -11,9 +11,7 @@ footer: Ayajiro © 2020
 
 自己是完全的日本語初心者，在自學日文的過程遇到了很多挫折，找到這份指南真的覺得很開心，雖然有 pizzamx 翻譯的日语语法指南，但因爲自己是繁體中文的使用者，在簡繁轉換和慣用語理解有點吃力，因此決定改寫一個繁體中文版，一方面作爲自己學習的記錄，如果可以幫助到其他正在學習日文的人的話就太好了。
 
-因爲是一邊學習日文一邊繁體中文化和架設網站，所以更新的速度會和我的學習進度相關，不能確定完成時間。
-
-對這份翻譯有任何想法與建議歡迎告訴我  \\(ˊᗜˋ)/。
+對這份翻譯有任何想法與建議歡迎告訴我。
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fayajiro.github.io%2Fjpgramma_zhtw%2F&count_bg=%23005599&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
